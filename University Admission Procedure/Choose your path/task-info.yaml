@@ -211,5 +211,8 @@ files:
     Nastassja Trustram 3.77 Mathematics Engineering Physics"""
   learner_created: false
 feedback_link: https://hyperskill.org/projects/163/stages/847/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 27 May 2021 13:24:43 UTC
+record: 4
